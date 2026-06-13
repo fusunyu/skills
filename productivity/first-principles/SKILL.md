@@ -1,4 +1,6 @@
+yaml
 ---
+name: first-principles
 description: >
   Interrogate the user's problem from first principles before drilling into
   their solution. A two-phase adversarial interview: Phase 1 destroys inherited
