@@ -1,4 +1,3 @@
-yaml
 ---
 name: first-principles
 description: >
